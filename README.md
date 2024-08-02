@@ -38,7 +38,7 @@ This is Conway's Game of Life a cellular automata implemented in Rust using the 
 You can use this project to learn about the Game of Life and how it works.
 You can also use this project to create your own patterns and see how they evolve over time.
 
-<!-- ![Screen Shot of Game](./images/Screenshot.png) -->
+![Screen Shot of Game](./images/Screenshot.png)
 
 ## Contributing
 
